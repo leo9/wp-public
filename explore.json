@@ -182,5 +182,51 @@
           "thumbnailUrl":"https://images.unsplash.com/photo-1543920144-eadce8fac3b9?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
        }
     ]
+  },
+  {
+    "type": "collection",
+    "title": "Speed in city",
+    "images": [
+        {
+          "owner":"unsplashed.com",
+          "caption":"",
+          "originalUrl":"https://images.unsplash.com/photo-1532988633349-d3dfb28ee834?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80",
+          "originalHeight":1920,
+          "originalWidth":1080,
+          "thumbnailUrl":"https://images.unsplash.com/photo-1532988633349-d3dfb28ee834?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+       },
+       {
+          "owner":"unsplashed.com",
+          "caption":"",
+          "originalUrl":"https://images.unsplash.com/photo-1531163953594-bc9a034fafb1?ixlib=rb-1.2.1&auto=format&fit=crop&w=2734&q=80",
+          "originalHeight":1920,
+          "originalWidth":1080,
+          "thumbnailUrl":"https://images.unsplash.com/photo-1531163953594-bc9a034fafb1?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
+       },
+       {
+          "owner":"unsplashed.com",
+          "caption":"",
+          "originalUrl":"https://images.unsplash.com/photo-1532245128003-3db26c775465?ixlib=rb-1.2.1&auto=format&fit=crop&w=2734&q=80",
+          "originalHeight":1920,
+          "originalWidth":1080,
+          "thumbnailUrl":"https://images.unsplash.com/photo-1532245128003-3db26c775465?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
+       },
+       {
+          "owner":"unsplashed.com",
+          "caption":"",
+          "originalUrl":"https://images.unsplash.com/photo-1516298252535-cf2ac5147f9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjE2ODQ0fQ&auto=format&fit=crop&w=2734&q=80",
+          "originalHeight":1920,
+          "originalWidth":1080,
+          "thumbnailUrl":"https://images.unsplash.com/photo-1516298252535-cf2ac5147f9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjE2ODQ0fQ&auto=format&fit=crop&w=668&q=80"
+       },
+       {
+          "owner":"unsplashed.com",
+          "caption":"",
+          "originalUrl":"https://images.unsplash.com/photo-1519752235002-1f7189299e90?ixlib=rb-1.2.1&auto=format&fit=crop&w=2800&q=80",
+          "originalHeight":1920,
+          "originalWidth":1080,
+          "thumbnailUrl":"https://images.unsplash.com/photo-1519752235002-1f7189299e90?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+       }
+    ]
   }
 ]
