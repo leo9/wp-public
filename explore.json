@@ -136,5 +136,51 @@
           "thumbnailUrl":"https://images.unsplash.com/photo-1548504773-429e84f586d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80"
        }
     ]
+  },
+  {
+    "type": "collection",
+    "title": "Sky",
+    "images": [
+        {
+          "owner":"unsplashed.com",
+          "caption":"",
+          "originalUrl":"https://images.unsplash.com/photo-1548268770-66184a21657e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2726&q=80",
+          "originalHeight":1920,
+          "originalWidth":1080,
+          "thumbnailUrl":"https://images.unsplash.com/photo-1548268770-66184a21657e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=582&q=80"
+       },
+       {
+          "owner":"unsplashed.com",
+          "caption":"",
+          "originalUrl":"https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2801&q=80",
+          "originalHeight":1920,
+          "originalWidth":1080,
+          "thumbnailUrl":"https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=802&q=80"
+       },
+       {
+          "owner":"unsplashed.com",
+          "caption":"",
+          "originalUrl":"https://images.unsplash.com/photo-1542272201-b1ca555f8505?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80",
+          "originalHeight":1920,
+          "originalWidth":1080,
+          "thumbnailUrl":"https://images.unsplash.com/photo-1542272201-b1ca555f8505?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+       },
+       {
+          "owner":"unsplashed.com",
+          "caption":"",
+          "originalUrl":"https://images.unsplash.com/photo-1545296461-3d71249c1b48?ixlib=rb-1.2.1&auto=format&fit=crop&w=2734&q=80",
+          "originalHeight":1920,
+          "originalWidth":1080,
+          "thumbnailUrl":"https://images.unsplash.com/photo-1545296461-3d71249c1b48?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
+       },
+       {
+          "owner":"unsplashed.com",
+          "caption":"",
+          "originalUrl":"https://images.unsplash.com/photo-1543920144-eadce8fac3b9?ixlib=rb-1.2.1&auto=format&fit=crop&w=2734&q=80",
+          "originalHeight":1920,
+          "originalWidth":1080,
+          "thumbnailUrl":"https://images.unsplash.com/photo-1543920144-eadce8fac3b9?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
+       }
+    ]
   }
 ]
