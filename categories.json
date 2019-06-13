@@ -1,0 +1,27 @@
+[
+    {
+        "type": "categories",
+        "items": [
+            {
+                "image": "https://images.unsplash.com/photo-1514316703755-dca7d7d9d882?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80",
+                "id": "cars",
+                "name": "Cars"
+            },
+            {
+                "image": "https://images.unsplash.com/photo-1553285991-4c74211f5097?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80",
+                "id": "streetwears",
+                "name": "Streetwears"
+            },
+            {
+                "image": "https://images.unsplash.com/photo-1553835973-dec43bfddbeb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80",
+                "id": "logos",
+                "name": "Logos"
+            },
+            {
+                "image": "https://images.unsplash.com/photo-1494256997604-768d1f608cac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2001&q=80",
+                "id": "animals",
+                "name": "Animals"
+            }
+        ]
+    }
+]
