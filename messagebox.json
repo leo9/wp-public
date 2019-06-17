@@ -1,25 +1,9 @@
 {
     "com.girly.wallpapaersandbackgrounds.forgirls": {
-        "showDialog": true,
+        "showDialog": false,
         "title": "This is a test title",
         "body": "This is a test body",
         "dismissable": true,
-        "buttonLabel": "Test button",
-        "buttonUrl": "https://www.google.com"
-    },
-    "test1": {
-        "showDialog": false,
-        "title": "This is a test title1",
-        "body": "This is a test body",
-        "dismissable": true,
-        "buttonLabel": "Test button",
-        "buttonUrl": "https://www.google.com"
-    },
-    "test2": {
-        "showDialog": true,
-        "title": "This is a test title2",
-        "body": "This is a test body",
-        "dismissable": false,
         "buttonLabel": "Test button",
         "buttonUrl": "https://www.google.com"
     }
