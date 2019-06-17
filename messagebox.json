@@ -1,6 +1,6 @@
 {
     "com.girly.wallpapaersandbackgrounds.forgirls": {
-        "showDialog": true,
+        "showDialog": false,
         "title": "This is a test title",
         "body": "This is a test body",
         "dismissable": true,
