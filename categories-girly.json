@@ -3,117 +3,117 @@
         "type": "categories",
         "items": [
             {
-                "image": "https://images.unsplash.com/photo-1471500466955-85aecf33f71f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1471500466955-85aecf33f71f?ixlib=rb-1.2.1&auto=format&fit=crop&w=650&q=80",
                 "id": "summer",
                 "name": "Summer"
             },
             {
-                "image": "https://images.unsplash.com/photo-1549987024-8f2248d5514c?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1549987024-8f2248d5514c?ixlib=rb-1.2.1&auto=format&fit=crop&w=650&q=80",
                 "id": "vday",
                 "name": "Valentine's Day"
             },
             {
-                "image": "https://images.unsplash.com/photo-1486428128344-5413e434ad35?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1486428128344-5413e434ad35?ixlib=rb-1.2.1&auto=format&fit=crop&w=650&q=80",
                 "id": "styled_food",
                 "name": "Styled Food"
             },
             {
-                "image": "https://images.unsplash.com/photo-1466689923919-dbea2d43d41e?&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1466689923919-dbea2d43d41e?&auto=format&fit=crop&w=650&q=80",
                 "id": "hot_drinks",
                 "name": "Hot Drinks"
             },
             {
-                "image": "https://images.unsplash.com/photo-1517299321609-52687d1bc55a?auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1517299321609-52687d1bc55a?auto=format&fit=crop&w=650&q=80",
                 "id": "white_world",
                 "name": "White World"
             },
             {
-                "image": "https://images.unsplash.com/photo-1534840940217-e51f4f68daeb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1534840940217-e51f4f68daeb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "spectrums",
                 "name": "Spectrums"
             },
             {
-                "image": "https://images.unsplash.com/photo-1506202687253-52e1b29d3527?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1506202687253-52e1b29d3527?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "ultimate_fall",
                 "name": "Ultimate Fall"
             },
             {
-                "image": "https://images.unsplash.com/photo-1514503612056-e3f673b3f3bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1514503612056-e3f673b3f3bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "under_the_sea",
                 "name": "Under the Sea"
             },
             {
-                "image": "https://images.unsplash.com/photo-1514090933789-202eee6355c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1514090933789-202eee6355c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "neon",
                 "name": "Neon"
             },
             {
-                "image": "https://images.unsplash.com/photo-1534119428213-bd2626145164?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1534119428213-bd2626145164?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "sweet",
                 "name": "Sweet"
             },
             {
-                "image": "https://images.unsplash.com/photo-1527499861446-cc219aea45ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1527499861446-cc219aea45ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "mint",
                 "name": "Mint"
             },
             {
-                "image": "https://images.unsplash.com/photo-1497005367839-6e852de72767?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1497005367839-6e852de72767?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "minimalism",
                 "name": "Minimalism"
             },
             {
-                "image": "https://images.unsplash.com/photo-1518946222227-364f22132616?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1518946222227-364f22132616?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "unicorn",
                 "name": "Unicorn"
             },
             {
-                "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "paris",
                 "name": "Paris"
             },
             {
-                "image": "https://images.unsplash.com/photo-1550497705-2acd5c1546f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1550497705-2acd5c1546f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "watercolor_gallery",
                 "name": "Watercolor Gallery"
             },
             {
-                "image": "https://images.unsplash.com/photo-1528372531841-f1228963b0af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1528372531841-f1228963b0af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "marble_textures",
                 "name": "Marble Textures"
             },
             {
-                "image": "https://images.unsplash.com/photo-1468927201227-35e86293a0c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1468927201227-35e86293a0c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "cozy",
                 "name": "Get Cozy"
             },
             {
-                "image": "https://images.unsplash.com/photo-1551190910-5960b5c75387?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1551190910-5960b5c75387?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "rose_gold",
                 "name": "Rose Gold"
             },
             {
-                "image": "https://images.unsplash.com/photo-1561433881-71f27412406f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1561433881-71f27412406f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "floral_patterns",
                 "name": "Floral Patterns"
             },
             {
-                "image": "https://images.unsplash.com/photo-1529244927325-b3ef2247b9fb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1529244927325-b3ef2247b9fb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "girly",
                 "name": "Girly"
             },
             {
-                "image": "https://images.unsplash.com/photo-1503455637927-730bce8583c0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1503455637927-730bce8583c0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "pink",
                 "name": "Love Pink"
             },
             {
-                "image": "https://images.unsplash.com/photo-1504618223053-559bdef9dd5a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1504618223053-559bdef9dd5a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "cute_animals",
                 "name": "Cute Animals"
             },
             {
-                "image": "https://images.unsplash.com/photo-1535819982781-87e951f67cce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                "image": "https://images.unsplash.com/photo-1535819982781-87e951f67cce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
                 "id": "cats",
                 "name": "Cats"
             }
